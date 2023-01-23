@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/albumcover.jpg</file>
+        <file>Images/aleatorio.png</file>
+        <file>Images/coracao.png</file>
+        <file>Images/dispositivos.png</file>
+        <file>Images/down.png</file>
+        <file>Images/exemplo.jpg</file>
+        <file>Images/last.png</file>
+        <file>Images/menu.png</file>
+        <file>Images/more.png</file>
+        <file>Images/next.png</file>
+        <file>Images/play.png</file>
+        <file>Images/repeat.png</file>
+        <file>Images/share.png</file>
+    </qresource>
+</RCC>
